@@ -1,0 +1,1 @@
+const CONFIG={APP_URL:"",API_URL:"local",API_DEPTH:15,RATE_LIMIT_OVERLAY:false};globalThis._cfg=CONFIG;
